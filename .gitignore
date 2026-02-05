@@ -4,3 +4,6 @@
 *.db-wal
 .env
 **/.DS_Store
+# Archivos privados
+GUION_ENTREVISTA.md
+errors.txt
